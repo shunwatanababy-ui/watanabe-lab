@@ -1,0 +1,140 @@
+.main {
+  max-width: none;
+  padding: 0;
+}
+
+.post-content {
+  max-width: none;
+  margin: 0;
+}
+
+.home-hero {
+  position: relative;
+  width: 100vw;
+  min-height: calc(100vh - 64px);
+  margin-left: calc(50% - 50vw);
+  background-image: url("/images/hero/hero1.jpg");
+  background-size: cover;
+  background-position: center;
+  overflow: hidden;
+}
+
+.home-hero-overlay {
+  position: absolute;
+  inset: 0;
+  background:
+    linear-gradient(
+      90deg,
+      rgba(0, 0, 0, 0.82) 0%,
+      rgba(0, 0, 0, 0.62) 42%,
+      rgba(0, 0, 0, 0.22) 100%
+    ),
+    linear-gradient(
+      180deg,
+      rgba(0, 0, 0, 0.20) 0%,
+      rgba(0, 0, 0, 0.55) 100%
+    );
+}
+
+.home-hero-content {
+  position: relative;
+  z-index: 2;
+  max-width: 760px;
+  padding: 15vh 7vw 12vh;
+  color: white;
+}
+
+.home-hero-kicker {
+  font-size: 1.05rem;
+  letter-spacing: 0.04em;
+  color: rgba(255, 255, 255, 0.88);
+  margin-bottom: 2rem;
+}
+
+.home-hero h1 {
+  font-size: clamp(4rem, 8vw, 8rem);
+  line-height: 0.92;
+  font-weight: 800;
+  letter-spacing: -0.06em;
+  margin: 0;
+  color: white;
+}
+
+.home-hero h2 {
+  font-size: clamp(1.8rem, 3vw, 3rem);
+  line-height: 1.15;
+  margin-top: 2rem;
+  margin-bottom: 1.5rem;
+  color: white;
+}
+
+.home-hero-text {
+  font-size: 1.22rem;
+  line-height: 1.8;
+  color: rgba(255, 255, 255, 0.92);
+  max-width: 660px;
+}
+
+.home-hero-buttons {
+  display: flex;
+  gap: 18px;
+  margin-top: 38px;
+  flex-wrap: wrap;
+}
+
+.home-button {
+  display: inline-block;
+  padding: 15px 30px;
+  border-radius: 999px;
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.home-button.primary {
+  background: #0066cc;
+  color: white;
+}
+
+.home-button.secondary {
+  border: 2px solid rgba(255, 255, 255, 0.85);
+  color: white;
+  background: rgba(0, 0, 0, 0.18);
+}
+
+.post-content > h2,
+.post-content > h3,
+.post-content > p,
+.post-content > ul,
+.post-content > hr {
+  max-width: 1050px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 28px;
+  padding-right: 28px;
+}
+
+.post-content > h2 {
+  margin-top: 70px;
+  font-size: 2.3rem;
+}
+
+.post-content > h3 {
+  margin-top: 34px;
+  color: #003366;
+}
+
+.post-content > p,
+.post-content > ul {
+  font-size: 1.05rem;
+  line-height: 1.8;
+}
+
+@media (max-width: 800px) {
+  .home-hero-content {
+    padding: 120px 28px 90px;
+  }
+
+  .home-hero h1 {
+    font-size: 4rem;
+  }
+}

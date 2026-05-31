@@ -6,7 +6,51 @@
     <description>Recent content on Watanabe Laboratory</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate></lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Shun Watanabe</title>
+      <link>http://localhost:1313/people/shun-watanabe/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/people/shun-watanabe/</guid>
+      <description>&lt;div class=&#34;profile-photo-wrapper&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/hero/PI.jpg&#34; class=&#34;profile-page-photo&#34;&gt;
+&lt;/div&gt;
+&lt;h2 id=&#34;shun-watanabe&#34;&gt;Shun Watanabe&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Team Director&lt;/strong&gt;,&lt;/p&gt;
+&lt;p&gt;Emergent Molecular Electronics Research Team (Watanabe Lab)&lt;/p&gt;
+&lt;p&gt;RIKEN Center for Emergent Matter Science (CEMS)&lt;/p&gt;
+&lt;h2 id=&#34;biography&#34;&gt;Biography&lt;/h2&gt;
+&lt;p&gt;Shun Watanabe is Team Director of the Emergent Molecular Electronics Research Team at the RIKEN Center for Emergent Matter Science (CEMS).&lt;/p&gt;
+&lt;p&gt;He received his Ph.D. in Engineering from Nagoya University in 2011, where he studied condensed matter physics and organic electronics. Following his doctoral studies, he joined the Cavendish Laboratory at the University of Cambridge as a postdoctoral researcher in the group of Prof. Henning Sirringhaus. During his time in Cambridge, he worked on charge transport, molecular doping, and spin transport phenomena in organic semiconductors, contributing to several pioneering studies published in Nature Materials and Nature Physics.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Watanabe Laboratory</title>
+      <link>http://localhost:1313/_index_backup/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/_index_backup/</guid>
+      <description>&lt;div class=&#34;hero&#34;&gt;
+  &lt;div class=&#34;hero-bg&#34;&gt;&lt;/div&gt;
+  &lt;div class=&#34;hero-overlay&#34;&gt;&lt;/div&gt;
+  &lt;div class=&#34;hero-content&#34;&gt;
+    &lt;div class=&#34;hero-subtitle&#34;&gt;RIKEN Center for Emergent Matter Science&lt;/div&gt;
+&lt;pre&gt;&lt;code&gt;&amp;lt;h1&amp;gt;Watanabe&amp;lt;br&amp;gt;Laboratory&amp;lt;/h1&amp;gt;
+
+&amp;lt;h2&amp;gt;Emergent Molecular Electronics&amp;lt;/h2&amp;gt;
+
+&amp;lt;div class=&amp;quot;hero-line&amp;quot;&amp;gt;&amp;lt;/div&amp;gt;
+
+&amp;lt;p&amp;gt;
+  We explore emergent phenomena in molecular materials through the interplay
+  of electrons and ions, bridging chemistry, physics, and materials science.
+&amp;lt;/p&amp;gt;
+
+&amp;lt;div class=&amp;quot;hero-buttons&amp;quot;&amp;gt;
+  &amp;lt;a href=&amp;quot;/research/&amp;quot; class=&amp;quot;btn-primary&amp;quot;&amp;gt;Our Research →&amp;lt;/a&amp;gt;
+  &amp;lt;a href=&amp;quot;/open-positions/&amp;quot; class=&amp;quot;btn-secondary&amp;quot;&amp;gt;Open Positions →&amp;lt;/a&amp;gt;
+&amp;lt;/div&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+  &lt;/div&gt;
+&lt;/div&gt;</description>
+    </item>
   </channel>
 </rss>

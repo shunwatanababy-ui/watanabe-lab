@@ -3,20 +3,40 @@ title: "Watanabe Laboratory"
 draft: false
 ---
 
-# Watanabe Laboratory
+<div class="home-hero">
+<div class="home-hero-overlay"></div>
+<div class="home-hero-content">
+<p class="home-hero-kicker">RIKEN Center for Emergent Matter Science (CEMS)</p>
+<h1>Watanabe<br>Laboratory</h1>
+<h2>Emergent Molecular Electronics Team</h2>
+<p class="home-hero-text">We explore emergent electronic phenomena in molecular materials by integrating organic chemistry, condensed matter physics, electrochemistry, and advanced microscopy.</p>
+<div class="home-hero-buttons">
+<a href="/open-positions/" class="home-button secondary">Open Positions</a>
+</div>
+</div>
+</div>
 
-**Emergent Molecular Electronics Laboratory**  
-RIKEN Center for Emergent Matter Science
+## Research Themes
 
-We study organic semiconductors, electrochemical doping, ion-electron coupling, and quantum transport in molecular materials.
+### Supramolecular Alchemy
 
-## Research
+Engineering emergent matter through molecular self-assembly.
 
-- Multi-Carrier Charge Science
-- Electrochemical Doping
-- Quantum Organic Electronics
-- Real-space Molecular Electronics
 
-## Open Positions
+### Functional π-Conjugated Polymers
 
-We welcome motivated students, postdoctoral researchers, and international collaborators.
+Design and characterization of soft molecular materials for electronics, spintronics, and energy conversion.
+
+
+### Multi-Carrier Charge Science
+
+Understanding the duality and interplay between electronic and ionic charge carriers in molecular materials.
+
+### Molecular Doping
+
+Precise control of carrier density, counter-ion distributions, and electronic phases.
+
+### Real-space Molecular Electronics
+
+Direct visualization of molecular-scale electronic phenomena using advanced electron microscopy and nanofabrication techniques.
+

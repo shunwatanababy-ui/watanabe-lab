@@ -10,12 +10,11 @@ defaultContentLanguage = "en"
   ShowReadingTime = false
   ShowShareButtons = false
   ShowPostNavLinks = true
-  ShowBreadCrumbs = true
+  ShowBreadCrumbs = false
   ShowCodeCopyButtons = true
-
-[params.homeInfoParams]
-  Title = "Watanabe Laboratory"
-  Content = "Emergent Molecular Electronics | Organic Semiconductors | Electrochemical Doping | Multi-Carrier Charge Science"
+  defaultTheme = "light"
+  disableThemeToggle = true
+  
 
 [[menu.main]]
   identifier = "research"
@@ -58,3 +57,11 @@ defaultContentLanguage = "en"
   name = "Contact"
   url = "/contact/"
   weight = 70
+
+[params.assets]
+  customCSS = ["css/extended/custom.css"]
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
