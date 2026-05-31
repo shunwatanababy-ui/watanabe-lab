@@ -8,22 +8,6 @@
     <language>en-us</language>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Shun Watanabe</title>
-      <link>http://localhost:1313/people/shun-watanabe/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/people/shun-watanabe/</guid>
-      <description>&lt;div class=&#34;profile-photo-wrapper&#34;&gt;
-&lt;img src=&#34;http://localhost:1313/images/hero/PI.jpg&#34; class=&#34;profile-page-photo&#34;&gt;
-&lt;/div&gt;
-&lt;h2 id=&#34;shun-watanabe&#34;&gt;Shun Watanabe&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;Team Director&lt;/strong&gt;,&lt;/p&gt;
-&lt;p&gt;Emergent Molecular Electronics Research Team (Watanabe Lab)&lt;/p&gt;
-&lt;p&gt;RIKEN Center for Emergent Matter Science (CEMS)&lt;/p&gt;
-&lt;h2 id=&#34;biography&#34;&gt;Biography&lt;/h2&gt;
-&lt;p&gt;Shun Watanabe is Team Director of the Emergent Molecular Electronics Research Team at the RIKEN Center for Emergent Matter Science (CEMS).&lt;/p&gt;
-&lt;p&gt;He received his Ph.D. in Engineering from Nagoya University in 2011, where he studied condensed matter physics and organic electronics. Following his doctoral studies, he joined the Cavendish Laboratory at the University of Cambridge as a postdoctoral researcher in the group of Prof. Henning Sirringhaus. During his time in Cambridge, he worked on charge transport, molecular doping, and spin transport phenomena in organic semiconductors, contributing to several pioneering studies published in Nature Materials and Nature Physics.&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>Watanabe Laboratory</title>
       <link>http://localhost:1313/_index_backup/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>

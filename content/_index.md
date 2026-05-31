@@ -18,7 +18,7 @@ draft: false
 
 ## Research Themes
 
-### Supramolecular Alchemy 1111
+### Supramolecular Alchemy
 
 Engineering emergent matter through molecular self-assembly.
 
@@ -39,4 +39,6 @@ Precise control of carrier density, counter-ion distributions, and electronic ph
 ### Real-space Molecular Electronics
 
 Direct visualization of molecular-scale electronic phenomena using advanced electron microscopy and nanofabrication techniques.
+
+1st June 2025
 

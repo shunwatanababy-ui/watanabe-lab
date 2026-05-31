@@ -2,7 +2,11 @@
 title: "Shun Watanabe"
 url: "/people/shun-watanabe/"
 layout: "profile"
+build:
+  render: always
+  list: never
 ---
+
 <div class="profile-photo-wrapper">
 <img src="/images/hero/PI.jpg" class="profile-page-photo">
 </div>
