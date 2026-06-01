@@ -59,7 +59,7 @@
   width: 100vw;
   min-height: calc(90vh - 70px);
   margin-left: calc(50% - 50vw);
-  background-image: url("/images/hero/hero2.jpg");
+  background-image: url("/watanabe-lab/images/hero/hero2.jpg");
   background-size: cover;
   background-position: center center;
   overflow: hidden;
