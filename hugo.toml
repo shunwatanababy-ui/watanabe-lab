@@ -21,43 +21,43 @@ defaultContentLanguage = "en"
 [[menu.main]]
   identifier = "research"
   name = "Research"
-  url = "/research/"
+  url = "/watanabe-lab/research/"
   weight = 10
 
 [[menu.main]]
   identifier = "people"
   name = "People"
-  url = "/people/"
+  url = "/watanabe-lab/people/"
   weight = 20
 
 [[menu.main]]
   identifier = "publications"
   name = "Publications"
-  url = "/publications/"
+  url = "/watanabe-lab/publications/"
   weight = 30
 
 [[menu.main]]
   identifier = "facilities"
   name = "Facilities"
-  url = "/facilities/"
+  url = "/watanabe-lab/facilities/"
   weight = 40
 
 [[menu.main]]
   identifier = "news"
   name = "News"
-  url = "/news/"
+  url = "/watanabe-lab/news/"
   weight = 50
 
 [[menu.main]]
   identifier = "positions"
   name = "Open Positions"
-  url = "/open-positions/"
+  url = "/watanabe-lab/open-positions/"
   weight = 60
 
 [[menu.main]]
   identifier = "contact"
   name = "Contact"
-  url = "/contact/"
+  url = "/watanabe-lab/contact/"
   weight = 70
 
 [params.assets]
