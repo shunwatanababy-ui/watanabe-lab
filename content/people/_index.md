@@ -1,6 +1,6 @@
 <h2>Team Members</h2>
 <div class="people-grid">
-<a href="/people/shun-watanabe/" class="person-card person-card-link">
+<a href="/watanabe-lab/people/shun-watanabe/" class="person-card person-card-link">
   <img src="/watanabe-lab/images/hero/PI.jpg" class="person-photo">
   <h3>Shun Watanabe</h3>
   <p class="person-role">Team Director</p>
@@ -10,15 +10,16 @@
   </p>
 </a>
 
-<div class="person-card">
-<img src="/watanabe-lab/images/people/hai-wang.jpg" class="person-photo">
+<a href="/watanabe-lab/people/hai-wang/" class="person-card person-card-link">
+  <img src="/watanabe-lab/images/hero/hai-wang.jpg" class="person-photo">
 <h3>Hai Wang</h3>
 <p class="person-role">Postdoctoral Researcher</p>
 <p class="person-interests">
 Polymer Chemistry<br>
 Electrochemistry
 </p>
-</div>
+</a>
+
 
 <div class="person-card">
 <img src="/watanabe-lab/images/people/retno-dwi-wulandari.jpg" class="person-photo">
