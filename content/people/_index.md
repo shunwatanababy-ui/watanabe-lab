@@ -31,15 +31,15 @@ Mesoscopic Devices
 </p>
 </div>
 
-<div class="person-card">
-<img src="/watanabe-lab/images/people/shunichiro-ito.jpg" class="person-photo">
+<a href="/watanabe-lab/people/hai-wang/" class="person-card person-card-link">
+  <img src="/watanabe-lab/images/hero/shun-ito.jpg" class="person-photo">
 <h3>Shunichiro Ito</h3>
 <p class="person-role">Postdoctoral Researcher</p>
 <p class="person-interests">
 Thermoelectric Transport<br>
 Polymer Physics
 </p>
-</div>
+</a>
 
 <div class="person-card">
 <img src="/watanabe-lab/images/people/takahiro-kaneta.jpg" class="person-photo">
