@@ -1,5 +1,4 @@
 baseURL = "https://shunwatanababy-ui.github.io/watanabe-lab/"
-canonifyURLs = true
 relativeURLs = false
 title = "Watanabe Laboratory"
 theme = "PaperMod"
