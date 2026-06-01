@@ -31,7 +31,7 @@ Mesoscopic Devices
 </p>
 </div>
 
-<a href="/watanabe-lab/people/hai-wang/" class="person-card person-card-link">
+<a href="/watanabe-lab/people/shun-ito/" class="person-card person-card-link">
   <img src="/watanabe-lab/images/hero/shun-ito.jpg" class="person-photo">
 <h3>Shunichiro Ito</h3>
 <p class="person-role">Postdoctoral Researcher</p>
