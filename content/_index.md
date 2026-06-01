@@ -11,7 +11,7 @@ draft: false
 <h2>Emergent Molecular Electronics Team</h2>
 <p class="home-hero-text">We explore emergent electronic phenomena in molecular materials by integrating organic chemistry, condensed matter physics, electrochemistry, and advanced microscopy.</p>
 <div class="home-hero-buttons">
-<a href="/open-positions/" class="home-button secondary">Open Positions</a>
+<a href="https://shunwatanababy-ui.github.io/watanabe-lab/open-positions/" class="home-button secondary">Open Positions</a>
 </div>
 </div>
 </div>
