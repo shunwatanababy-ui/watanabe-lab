@@ -1,7 +1,7 @@
 <h2>Team Members</h2>
 <div class="people-grid">
 <a href="/people/shun-watanabe/" class="person-card person-card-link">
-  <img src="/images/hero/PI.jpg" class="person-photo">
+  <img src="/watanabe-lab/images/hero/PI.jpg" class="person-photo">
   <h3>Shun Watanabe</h3>
   <p class="person-role">Team Director</p>
   <p class="person-interests">
@@ -11,7 +11,7 @@
 </a>
 
 <div class="person-card">
-<img src="/images/people/hai-wang.jpg" class="person-photo">
+<img src="/watanabe-lab/images/people/hai-wang.jpg" class="person-photo">
 <h3>Hai Wang</h3>
 <p class="person-role">Postdoctoral Researcher</p>
 <p class="person-interests">
@@ -21,7 +21,7 @@ Electrochemistry
 </div>
 
 <div class="person-card">
-<img src="/images/people/retno-dwi-wulandari.jpg" class="person-photo">
+<img src="/watanabe-lab/images/people/retno-dwi-wulandari.jpg" class="person-photo">
 <h3>Retno Dwi Wulandari</h3>
 <p class="person-role">Postdoctoral Researcher</p>
 <p class="person-interests">
@@ -31,7 +31,7 @@ Mesoscopic Devices
 </div>
 
 <div class="person-card">
-<img src="/images/people/shunichiro-ito.jpg" class="person-photo">
+<img src="/watanabe-lab/images/people/shunichiro-ito.jpg" class="person-photo">
 <h3>Shunichiro Ito</h3>
 <p class="person-role">Postdoctoral Researcher</p>
 <p class="person-interests">
@@ -41,7 +41,7 @@ Polymer Physics
 </div>
 
 <div class="person-card">
-<img src="/images/people/takahiro-kaneta.jpg" class="person-photo">
+<img src="/watanabe-lab/images/people/takahiro-kaneta.jpg" class="person-photo">
 <h3>Takahiro Kaneta</h3>
 <p class="person-role">Student Trainee</p>
 <p class="person-interests">
@@ -51,7 +51,7 @@ Device Physics
 </div>
 
 <div class="person-card">
-<img src="/images/people/yiyang-dong.jpg" class="person-photo">
+<img src="/watanabe-lab/images/people/yiyang-dong.jpg" class="person-photo">
 <h3>Yiyang Dong</h3>
 <p class="person-role">Student Trainee</p>
 <p class="person-interests">
@@ -61,7 +61,7 @@ Organic Electronics
 </div>
 
 <div class="person-card">
-<img src="/images/people/mingqian-wang.jpg" class="person-photo">
+<img src="/watanabe-lab/images/people/mingqian-wang.jpg" class="person-photo">
 <h3>Mingqian Wang</h3>
 <p class="person-role">Student Trainee</p>
 <p class="person-interests">
@@ -71,7 +71,7 @@ Mixed Conduction
 </div>
 
 <div class="person-card">
-<img src="/images/people/junliang-lin.jpg" class="person-photo">
+<img src="/watanabe-lab/images/people/junliang-lin.jpg" class="person-photo">
 <h3>Junliang Lin</h3>
 <p class="person-role">Student Trainee</p>
 <p class="person-interests">
@@ -81,7 +81,7 @@ Organic Electronics
 </div>
 
 <div class="person-card">
-<img src="/images/people/ayuto-kouta.jpg" class="person-photo">
+<img src="/watanabe-lab/images/people/ayuto-kouta.jpg" class="person-photo">
 <h3>Ayuto Kouta</h3>
 <p class="person-role">Student Trainee</p>
 <p class="person-interests">
@@ -91,7 +91,7 @@ Device Fabrication
 </div>
 
 <div class="person-card">
-<img src="/images/people/ayuto-kouta.jpg" class="person-photo">
+<img src="/watanabe-lab/images/people/ayuto-kouta.jpg" class="person-photo">
 <h3>Antoine Baron</h3>
 <p class="person-role">Visitor/Postdoc</p>
 <p class="person-interests">
@@ -101,7 +101,7 @@ Electrochemistry
 </div>
 
 <div class="person-card">
-<img src="/images/people/ayuto-kouta.jpg" class="person-photo">
+<img src="/watanabe-lab/images/people/ayuto-kouta.jpg" class="person-photo">
 <h3>Yoriko Asano</h3>
 <p class="person-role">Assistant</p>
 <p class="person-interests">

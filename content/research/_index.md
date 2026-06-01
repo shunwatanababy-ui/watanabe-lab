@@ -5,7 +5,7 @@ Our research explores emergent electronic functions in molecular materials throu
 <div class="research-list">
 
 <div class="research-item">
-<img src="/images/hero/Phase.jpg"
+<img src="/watanabe-lab/images/hero/Phase.jpg"
      class="research-image">
 <div>
 <h2>Supramolecular Alchemy</h2>
@@ -21,7 +21,7 @@ Our research explores emergent electronic functions in molecular materials throu
 </div>
 
 <div class="research-item">
-<img src="/images/hero/hero1.jpg"
+<img src="/watanabe-lab/images/hero/hero1.jpg"
 class="research-image">
 <div>
 <h2>Functional π-Conjugated Polymers</h2>
@@ -35,7 +35,7 @@ class="research-image">
 </div>
 
 <div class="research-item">
-<img src="/images/hero/ions.jpg"
+<img src="/watanabe-lab/images/hero/ions.jpg"
 class="research-image">
 <div>
 <h2>Multi-Carrier Charge Science</h2>
@@ -49,7 +49,7 @@ class="research-image">
 </div>
 
 <div class="research-item">
-<img src="/images/hero/doping1.jpg"
+<img src="/watanabe-lab/images/hero/doping1.jpg"
 class="research-image">
 <div>
 <h2>Molecular Doping</h2>
@@ -64,7 +64,7 @@ class="research-image">
 </div>
 
 <div class="research-item">
-<img src="/images/hero/hero2.jpg"
+<img src="/watanabe-lab/images/hero/hero2.jpg"
 class="research-image">
 <div>
 <h2>Real-space Molecular Electronics</h2>

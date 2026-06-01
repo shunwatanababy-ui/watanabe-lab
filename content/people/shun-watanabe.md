@@ -8,7 +8,7 @@ build:
 ---
 
 <div class="profile-photo-wrapper">
-<img src="/images/hero/PI.jpg" class="profile-page-photo">
+<img src="/watanabe-lab/images/hero/PI.jpg" class="profile-page-photo">
 </div>
 
 ## Shun Watanabe
