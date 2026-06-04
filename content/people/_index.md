@@ -20,7 +20,6 @@ Electrochemistry
 </p>
 </a>
 
-
 <a href="/watanabe-lab/people/Retno/" class="person-card person-card-link">
   <img src="/watanabe-lab/images/hero／Retno.jpg" class="person-photo">
 <h3>Retno Dwi Wulandari</h3>
@@ -29,7 +28,7 @@ Electrochemistry
 Quantum Dots<br>
 Mesoscopic Devices
 </p>
-</div>
+</a>
 
 <a href="/watanabe-lab/people/shun-ito/" class="person-card person-card-link">
   <img src="/watanabe-lab/images/hero/shun-ito.jpg" class="person-photo">
