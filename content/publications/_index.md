@@ -55,4 +55,4 @@
 
 ### Full Publication List
 
-[Download Full Publication List (PDF)](/files/Watanabe_Publication_List_2026_final.pdf)
+[Download Full Publication List (PDF)](/watanabe-lab/files/Watanabe_Publication_List_2026_final.pdf)
