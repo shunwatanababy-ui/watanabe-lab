@@ -22,7 +22,7 @@ Electrochemistry
 
 
 <div class="person-card">
-<img src="/watanabe-lab/images/people/retno-dwi-wulandari.jpg" class="person-photo">
+<img src="/watanabe-lab/images/people/Retono.jpg" class="person-photo">
 <h3>Retno Dwi Wulandari</h3>
 <p class="person-role">Postdoctoral Researcher</p>
 <p class="person-interests">
@@ -53,7 +53,7 @@ Device Physics
 </a>
 
 <a href="/watanabe-lab/people/dong/" class="person-card person-card-link">
-  <img src="/watanabe-lab/images/hero/dong.jpg" 
+  <img src="/watanabe-lab/images/hero/Dong.jpg" 
   class="person-photo">
 <h3>Yiyang Dong</h3>
 <p class="person-role">Student Trainee</p>
@@ -61,10 +61,10 @@ Device Physics
 Thermoelectric Transport<br>
 Organic Electronics
 </p>
-</div>
+</a>
 
 <a href="/watanabe-lab/people/wang/" class="person-card person-card-link">
-  <img src="/watanabe-lab/images/hero/wang.jpg" 
+  <img src="/watanabe-lab/images/hero/Wang.jpg" 
   class="person-photo">
 <h3>Mingqian Wang</h3>
 <p class="person-role">Student Trainee</p>
@@ -72,7 +72,7 @@ Organic Electronics
 Polymer Chemistry<br>
 Mixed Conduction
 </p>
-</div>
+</a>
 
 <a href="/watanabe-lab/people/Lin/" class="person-card person-card-link">
   <img src="/watanabe-lab/images/hero/Lin.jpg" 
@@ -83,7 +83,7 @@ Mixed Conduction
 Mesoscopic Devices<br>
 Organic Electronics
 </p>
-</div>
+</a>
 
 <a href="/watanabe-lab/people/LIU/" class="person-card person-card-link">
   <img src="/watanabe-lab/images/hero/LIU.jpg" 
@@ -94,7 +94,7 @@ Organic Electronics
 Printed single crystals<br>
 Organic electronics
 </p>
-</div>
+</a>
 
 
 <a href="/watanabe-lab/people/kouta/" class="person-card person-card-link">
