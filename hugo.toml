@@ -5,6 +5,12 @@ theme = "PaperMod"
 languageCode = "en-us"
 defaultContentLanguage = "en"
 
+
+[services]
+  [services.googleAnalytics]
+    id = "G-E4XSELPWDQ"
+
+
 [params]
   description = "Emergent Molecular Electronics Laboratory at RIKEN CEMS"
   author = "Watanabe Laboratory"
