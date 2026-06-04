@@ -21,8 +21,8 @@ Electrochemistry
 </a>
 
 
-<div class="person-card">
-<img src="/watanabe-lab/images/people/Retono.jpg" class="person-photo">
+<a href="/watanabe-lab/people/Retno/" class="person-card person-card-link">
+  <img src="/watanabe-lab/images/hero／Retno.jpg" class="person-photo">
 <h3>Retno Dwi Wulandari</h3>
 <p class="person-role">Postdoctoral Researcher</p>
 <p class="person-interests">
@@ -63,8 +63,8 @@ Organic Electronics
 </p>
 </a>
 
-<a href="/watanabe-lab/people/wang/" class="person-card person-card-link">
-  <img src="/watanabe-lab/images/hero/Wang.jpg" 
+<a href="/watanabe-lab/people/Wang/" class="person-card person-card-link">
+  <img src="/watanabe-lab/images/hero/Wang.JPG" 
   class="person-photo">
 <h3>Mingqian Wang</h3>
 <p class="person-role">Student Trainee</p>
@@ -96,7 +96,6 @@ Organic electronics
 </p>
 </a>
 
-
 <a href="/watanabe-lab/people/kouta/" class="person-card person-card-link">
   <img src="/watanabe-lab/images/hero/kouta.jpg" 
   class="person-photo">
@@ -106,7 +105,7 @@ Organic electronics
 Advanced Microscopy<br>
 Device Fabrication
 </p>
-</div>
+</a>
 
 <a href="/watanabe-lab/people/Baron/" class="person-card person-card-link">
   <img src="/watanabe-lab/images/hero/Baron.jpg" 
@@ -117,7 +116,7 @@ Device Fabrication
 Polymer Devices<br>
 Electrochemistry
 </p>
-</div>
+</a>
 
 <div class="person-card">
 <img src="/watanabe-lab/images/people/asano.jpg" class="person-photo">
