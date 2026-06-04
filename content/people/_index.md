@@ -21,7 +21,7 @@ Electrochemistry
 </a>
 
 <a href="/watanabe-lab/people/Retno/" class="person-card person-card-link">
-  <img src="/watanabe-lab/images/hero／Retno.jpg" class="person-photo">
+  <img src="/watanabe-lab/images/hero/Retno.jpg" class="person-photo">
 <h3>Retno Dwi Wulandari</h3>
 <p class="person-role">Postdoctoral Researcher</p>
 <p class="person-interests">
