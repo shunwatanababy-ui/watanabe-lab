@@ -735,3 +735,76 @@ body:has(.profile-page) .post-header {
     background-image: url("/watanabe-lab/images/hero/hero2.jpg");
   }
 }
+/* ===== Facilities Page ===== */
+
+.facilities-intro {
+  max-width: 900px;
+  margin: 30px auto 70px;
+  padding: 0 32px;
+
+  text-align: center;
+  font-size: 1.15rem;
+  line-height: 1.8;
+  color: #23395d;
+}
+
+.facility-suite {
+  max-width: 1400px;
+  margin: 90px auto 120px;
+  padding: 0 32px;
+}
+
+.facility-suite > h2 {
+  text-align: center;
+  font-size: 2.3rem;
+  color: #0a2a66;
+  margin-bottom: 14px;
+}
+
+.suite-description {
+  max-width: 780px;
+  margin: 0 auto 45px;
+  text-align: center;
+  font-size: 1.1rem;
+  line-height: 1.8;
+  color: #23395d;
+}
+
+.facility-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+  gap: 34px;
+}
+
+.facility-card {
+  background: #ffffff;
+  border-radius: 22px;
+  overflow: hidden;
+  box-shadow: 0 10px 28px rgba(0,0,0,0.07);
+  border: 1px solid rgba(0,87,184,0.08);
+}
+
+.facility-card img {
+  width: 100%;
+  height: 230px;
+  object-fit: cover;
+  display: block;
+}
+
+.facility-card h3 {
+  padding: 22px 24px 8px;
+  margin: 0;
+  color: #0a2a66;
+  font-size: 1.25rem;
+}
+
+.facility-card p {
+  padding: 0 24px 26px;
+  margin: 0;
+  line-height: 1.7;
+  color: #23395d;
+}
+
+.facility-spec {
+  font-size: 0.95rem;
+}
