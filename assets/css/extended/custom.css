@@ -709,26 +709,32 @@ body:has(.profile-page) .post-header {
 }
 /* Hero slideshow */
 
+/* Hero slideshow */
+
 .home-hero {
-  animation: heroSlideshow 20s infinite;
+  animation: heroSlideshow 25s infinite;
 }
 
 @keyframes heroSlideshow {
 
-  0%, 24% {
+  0%, 19% {
     background-image: url("/watanabe-lab/images/hero/hero2.jpg");
   }
 
-  25%, 49% {
+  20%, 39% {
     background-image: url("/watanabe-lab/images/hero/hero1.jpg");
   }
 
-  50%, 74% {
+  40%, 59% {
     background-image: url("/watanabe-lab/images/hero/ions.jpg");
   }
 
-  75%, 99% {
+  60%, 79% {
     background-image: url("/watanabe-lab/images/hero/hero3.jpg");
+  }
+
+  80%, 99% {
+    background-image: url("/watanabe-lab/images/hero/hero4.jpg");
   }
 
   100% {
