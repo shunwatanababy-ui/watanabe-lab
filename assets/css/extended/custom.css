@@ -808,3 +808,15 @@ body:has(.profile-page) .post-header {
 .facility-spec {
   font-size: 0.95rem;
 }
+
+.facility-card p {
+  padding: 0 20px 24px;
+  margin: 0;
+  line-height: 1.65;
+  color: #23395d;
+  text-align: center;
+}
+
+.facility-spec {
+  font-size: 0.92rem;
+}
